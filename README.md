@@ -1,11 +1,2 @@
-# SWE546_Assignment2
-Logistic Regression
-
-Using the Iris dataset, find the optimum logistic regression parameters for the following three problems:
-
-- Classify 1 versus 2,3
-- Classify 2 versus 1,3
-- Classify 3 versus 1,2
-
-
-Your program should output three parameter vectors, each of lenght 4
+# Logistic Regression
+Logistic regression is the appropriate regression analysis to conduct when the dependent variable is dichotomous (binary).  Like all regression analyses, the logistic regression is a predictive analysis.  Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more nominal, ordinal, interval or ratio-level independent variables.
